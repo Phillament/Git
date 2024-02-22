@@ -8,3 +8,5 @@ print(23 * 95)
 print(56/21)
 
 print(98%15)
+
+print(15 - 10)
