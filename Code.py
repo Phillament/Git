@@ -6,3 +6,5 @@ print(1 + 2)
 print(23 * 95)
 
 print(56/21)
+
+print(98%15)
